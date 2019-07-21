@@ -4,6 +4,9 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/../kennyjbc/pom.xml" />
+        <option value="$PROJECT_DIR$/../kennyjdbcspringbootstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../kennyjdbcspringbootstart/pom 21-27-14-582.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
