@@ -1,0 +1,4 @@
+# 类似注册表，向springboot声明一些东西
+# 自动装配，写在这里，让springboot启动时候自动装载配置的类
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.kenny.springboot.KennySpringbootJdbc
